@@ -37,18 +37,18 @@
 ├── member-a/
 │   ├── README.md              # 프로젝트 설명과 실행 방법
 │   ├── docs/
-│   │   ├── issue-1.md         # 문제별 해결 과정
-│   │   └── issue-2.md
+│   │   ├── 2026-11-05-database-connection-error.md         # 문제별 해결 과정
+│   │   └── 2026-11-06-package-install-error.md
 │   └── ...                    # 구현 코드 및 필요한 파일
 ├── member-b/
 │   ├── README.md
 │   ├── docs/
-│   │   └── issue-1.md
+│   │   └── 2026-11-05-database-connection-error.md
 │   └── ...
 └── member-c/
     ├── README.md
     ├── docs/
-    │   └── issue-1.md
+    │   └── 2026-11-05-database-connection-error.md
     └── ...
 ```
 
