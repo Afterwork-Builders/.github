@@ -51,6 +51,11 @@
     └── ...
 ```
 
+### 문서 템플릿
+
+- [개인 프로젝트 README 템플릿](https://github.com/Afterwork-Builders/.github/blob/main/templates/project-readme.md) — 각자 폴더의 `README.md`에 복사해서 사용합니다.
+- [트러블슈팅 템플릿](https://github.com/Afterwork-Builders/.github/blob/main/templates/troubleshooting.md) — 각자 폴더의 `docs/`에 복사해서 사용합니다.
+
 ## 회의 기록
 
 회의 문서는 `meetings/YYYY-MM-DD-주제.md` 형식으로 저장합니다. 날짜는 실제 회의한 날을 기준으로 합니다.
