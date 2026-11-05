@@ -37,17 +37,18 @@
 ├── member-a/
 │   ├── README.md              # 프로젝트 설명과 실행 방법
 │   ├── docs/
-│   │   └── troubleshooting.md # 문제와 해결 과정
+│   │   ├── issue-1.md         # 문제별 해결 과정
+│   │   └── issue-2.md
 │   └── ...                    # 구현 코드 및 필요한 파일
 ├── member-b/
 │   ├── README.md
 │   ├── docs/
-│   │   └── troubleshooting.md
+│   │   └── issue-1.md
 │   └── ...
 └── member-c/
     ├── README.md
     ├── docs/
-    │   └── troubleshooting.md
+    │   └── issue-1.md
     └── ...
 ```
 
