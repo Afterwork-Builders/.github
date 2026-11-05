@@ -4,7 +4,7 @@
 
 ## 그라운드 룰
 
-> 아래 항목은 첫 회의에서 함께 논의하고 채워갑니다.
+> 아래 항목은 첫 회의에서 함께 논의하고 채워갑니다. [회의 논의 사항과 기록](https://github.com/Afterwork-Builders/.github/blob/main/meetings/ground-rules.md)을 참고하세요.
 
 | 항목 | 함께 정할 내용 | 결정 사항 |
 | --- | --- | --- |
