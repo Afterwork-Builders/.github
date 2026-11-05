@@ -12,7 +12,7 @@
 
 ## 그라운드 룰
 
-> 아래 항목은 첫 회의에서 함께 논의하고 채워갑니다. [회의 논의 사항과 기록](https://github.com/Afterwork-Builders/.github/blob/main/meetings/ground-rules.md)을 참고하세요.
+> 아래 항목은 첫 회의에서 함께 논의하고 채워갑니다. [그라운드 룰 회의 템플릿](https://github.com/Afterwork-Builders/.github/blob/main/meetings/ground-rules-template.md)을 참고하세요.
 
 | 항목 | 함께 정할 내용 | 결정 사항 |
 | --- | --- | --- |
@@ -27,5 +27,4 @@
 
 ## 회의 기록
 
-- **회의 날짜:** 미정
-- **다음 논의 사항:** 미정
+회의 문서는 `meetings/YYYY-MM-DD-주제.md` 형식으로 저장합니다. 날짜는 실제 회의한 날을 기준으로 합니다.
