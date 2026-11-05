@@ -53,6 +53,7 @@
 
 ### 문서 템플릿
 
+- [주제별 레포지토리 README 템플릿](https://github.com/Afterwork-Builders/.github/blob/main/templates/topic-readme.md) — 주제별 레포지토리 루트의 `README.md`에 복사해서 사용합니다.
 - [개인 프로젝트 README 템플릿](https://github.com/Afterwork-Builders/.github/blob/main/templates/project-readme.md) — 각자 폴더의 `README.md`에 복사해서 사용합니다.
 - [트러블슈팅 템플릿](https://github.com/Afterwork-Builders/.github/blob/main/templates/troubleshooting.md) — 각자 폴더의 `docs/`에 복사해서 사용합니다.
 
