@@ -63,3 +63,5 @@
 ## 회의 기록
 
 회의 문서는 `meetings/YYYY-MM-DD-주제.md` 형식으로 저장합니다. 날짜는 실제 회의한 날을 기준으로 합니다.
+
+- [2026-11-08 그라운드 룰 및 첫 프로젝트 회의](https://github.com/Afterwork-Builders/.github/blob/main/meetings/2026-11-08-ground-rules.md) — 오후 9시 (한국 시간)
