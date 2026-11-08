@@ -32,23 +32,23 @@
 
 ## 주제별 레포지토리 구조 예시
 
-주제마다 레포지토리를 만들고, 각자 이름으로 된 폴더에 구현물과 문서를 정리합니다. 아래는 예시이며, 소스 코드의 세부 구조는 프로젝트에 맞게 구성할 수 있습니다.
+주제마다 레포지토리를 만들고, 각자 GitHub 닉네임으로 된 폴더에 구현물과 문서를 정리합니다. 아래는 예시이며, 소스 코드의 세부 구조는 프로젝트에 맞게 구성할 수 있습니다.
 
 ```text
 01-주제/
 ├── README.md                  # 주제 및 공통 요구사항
-├── member-a/
+├── pileuszu/
 │   ├── README.md              # 프로젝트 설명과 실행 방법
 │   ├── docs/
 │   │   ├── 2026-11-05-database-connection-error.md         # 문제별 해결 과정
 │   │   └── 2026-11-06-package-install-error.md
 │   └── ...                    # 구현 코드 및 필요한 파일
-├── member-b/
+├── Minji6/
 │   ├── README.md
 │   ├── docs/
 │   │   └── 2026-11-05-database-connection-error.md
 │   └── ...
-└── member-c/
+└── josephuk77/
     ├── README.md
     ├── docs/
     │   └── 2026-11-05-database-connection-error.md
