@@ -9,7 +9,7 @@
 
 | 주제 | 기간 | 레포지토리 |
 | --- | --- | --- |
-| 추가 예정 | 시작일 ~ 종료일 | — |
+| 미래 자산 계산기 | 2026-11-08 ~ 2026-11-16 (예정) | [01-future-asset-calculator](https://github.com/Afterwork-Builders/01-future-asset-calculator) (비공개) |
 
 ## 그라운드 룰
 
